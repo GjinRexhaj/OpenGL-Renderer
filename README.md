@@ -62,7 +62,7 @@ The ```shaders``` folder contains GLSL fragment and vertex shaders which are the
 
 ```main.cpp``` is the launching point of the program which contains the main loop (and calls ```framework.cpp``` and ```graphics.cpp```). This is also where GLFW and Glad is initalized.
 
-All other files' names are implicative of their function, please note that ```Logger.cpp``` will create and write all console outputs to ```logfile.txt``` in the current working directory. Logs aren't automatically removed so you may need to delete them every on occcasion.
+All other files' names are implicative of their function, please note that ```Logger.cpp``` will create and write all console outputs to ```logfile.txt``` in the current working directory. Logs aren't automatically removed so you may need to delete them on occcasion.
 
 
 
