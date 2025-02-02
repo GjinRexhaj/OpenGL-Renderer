@@ -1,3 +1,7 @@
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="c++" width="40" height="40"/> </a>
+            <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> <img src="https://www.opengl.org/sdk/inc/img/opengl_logo.png" alt="opengl" width="80" height="40"/> </a>
+
+
 # OpenGL-Renderer
 
 An OpenGL renderer written in C++ with an ImGui docking interface.
