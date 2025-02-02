@@ -1,4 +1,4 @@
-# Simple Math Game
+# OpenGL-Renderer
 
 An OpenGL renderer written in C++ with an ImGui docking interface.
 
@@ -16,7 +16,8 @@ Prerequisites:
 
 ## Setup
 
-You can clone this repository by opening a terminal and typing ```git clone https://github.com/gjinrexhaj/opengl-renderer```.
+You can clone this repository by opening a terminal and typing:
+```git clone https://github.com/gjinrexhaj/opengl-renderer```.
 
 Once cloned, you may use CMake (the CLI tool or CMake GUI) to configure the project and generate the build files for your platform/target. Specify the root of the project as the source directory as that's where the one and only ```CMakeLists.txt``` file resides. It's recommended you also set the build destination in it's own folder or things will get messy.
 
