@@ -1,4 +1,5 @@
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="readme-docs/c++.png" alt="c++" width="40" height="40"/> </a>
+<img src="readme-docs/c++.png" alt="c++" width="40" height="40"/>
             <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> <img src="https://www.opengl.org/sdk/inc/img/opengl_logo.png" alt="opengl" width="80" height="40"/> </a>
 
 
