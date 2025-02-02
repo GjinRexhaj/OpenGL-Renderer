@@ -1,5 +1,4 @@
-<img src="readme-docs/c++.png" alt="c++" width="40" height="40"/>
-            <img src="readme-docs/opengl_logo.png" alt="c++" width="80" height="40"/>
+<img src="readme-docs/c++.png" alt="c++" width="40" height="40"/> <img src="readme-docs/opengl_logo.png" alt="c++" width="80" height="40"/>
 
 
 # OpenGL-Renderer
